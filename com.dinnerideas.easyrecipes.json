@@ -1,0 +1,101 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "easy cook",
+      "high_paying_keyword_2": "easy dinners",
+      "high_paying_keyword_3": "easy recipes",
+      "high_paying_keyword_4": "dinner ideas",
+      "high_paying_keyword_5": "dinner recipes",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More":
+  [
+    {
+      "id":1,
+      "title":"Basque Burnt Cheesecake Recipe",
+      "image":"https://i.pinimg.com/originals/b3/35/57/b33557bfc757244fd96cc9a0359ae1e3.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.basquecheesecake.basqueburntcheesecake"
+    },
+    {
+      "id":2,
+      "title":"Pumpkin Seeds Recipe",
+      "image":"https://cookieandkate.com/images/2020/10/best-roasted-pumpkin-seeds-recipe-2-550x824.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.pumpkinseedrecipe.bestpumpkinseedrecipe"
+    },
+    {
+      "id":3,
+      "title":"Chili Recipe",
+      "image":"https://play-lh.googleusercontent.com/5pZ6JSpqn3DHJ4xI7ICvQCArqTThteyvPzj1jeMmK2Jrd-suIbOCQCeH304bVrNbaRs=w1366-h625-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.chilirecipe.bestchilirecipe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+
+    }
+  ],
+
+   "Data": [
+    {
+      "id": 5,
+      "name_category": "Easy",
+      "title": "Tomatillo Enchilada Sauce Recipe",
+      "image": "https://deliciouslittlebites.com/wp-content/uploads/2021/05/Tomatillo-Enchilada-Sauce-Recipe-Image-1-2.jpg",
+      "description": "The recipe is easily adaptable to suite your taste preferences and is low carb and gluten free.",
+      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/TomatilloEnchiladaSauceRecipe.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Roasted Tomatillo Enchilada Sauce Recipe",
+      "image": "https://www.feastingathome.com/wp-content/uploads/2020/08/Roasted-Enchilada-Sauce-13-1024x1536.jpg",
+      "description": "How to make homemade Enchilada Sauce (both red and green) by roasting the tomatoes or tomatillos and chilies before blending.",
+      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/RoastedTomatilloEnchiladaSauceRecipe.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Medium",
+      "title": "Enchilada Verde Sauce Recipe",
+      "image": "https://frommybowl.com/wp-content/uploads/2020/05/Classic_Salsa_Verde_Green_Enchilada_Sauce_FromMyBowl_Vegan_GlutenFree-7-scaled.jpg",
+      "description": "Easy homemade sauce for your enchiladas.",
+      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/EnchiladaVerdeSauceRecipe.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Medium",
+      "title": "Green Enchilada Sauce Recipe with Tomatillos",
+      "image": "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2018/06/Green-Enchilada-Sauce-Recipe1.jpg",
+      "description": "Homemade green enchilada sauce recipe made with fresh tomatillos, jalapenos, serranos and poblano peppers.",
+      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/GreenEnchiladaSauceRecipewithTomatillos.html"
+    }
+  ]
+}
+
