@@ -67,34 +67,35 @@
     {
       "id": 5,
       "name_category": "Easy",
-      "title": "Tomatillo Enchilada Sauce Recipe",
-      "image": "https://deliciouslittlebites.com/wp-content/uploads/2021/05/Tomatillo-Enchilada-Sauce-Recipe-Image-1-2.jpg",
-      "description": "The recipe is easily adaptable to suite your taste preferences and is low carb and gluten free.",
-      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/TomatilloEnchiladaSauceRecipe.html"
+      "title": "Chicken Piccata Recipe",
+      "image": "https://easychickenrecipes.com/wp-content/uploads/2019/02/chicken-piccata-recipe-3-of-8-650x975.jpg",
+      "description": "This easy chicken recipe is one of our all time favorites.",
+      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/1-EasyChickenRecipes.html"
     },
     {
       "id": 4,
       "name_category": "Easy",
-      "title": "Roasted Tomatillo Enchilada Sauce Recipe",
-      "image": "https://www.feastingathome.com/wp-content/uploads/2020/08/Roasted-Enchilada-Sauce-13-1024x1536.jpg",
-      "description": "How to make homemade Enchilada Sauce (both red and green) by roasting the tomatoes or tomatillos and chilies before blending.",
-      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/RoastedTomatilloEnchiladaSauceRecipe.html"
+      "title": "Korean Ground Beef Recipe",
+      "image": "https://leaf.nutrisystem.com/wp-content/uploads/2021/09/Instant-Pot-Korean-Beef.jpg",
+      "description": "This super easy Korean Ground Beef Recipe is a slightly sweet and spicy beef mixture.",
+      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/2-GroundBeefRecipes.html"
     },
     {
       "id": 3,
       "name_category": "Medium",
-      "title": "Enchilada Verde Sauce Recipe",
-      "image": "https://frommybowl.com/wp-content/uploads/2020/05/Classic_Salsa_Verde_Green_Enchilada_Sauce_FromMyBowl_Vegan_GlutenFree-7-scaled.jpg",
-      "description": "Easy homemade sauce for your enchiladas.",
-      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/EnchiladaVerdeSauceRecipe.html"
+      "title": "Lemon Garlic Baked Tilapia Recipe",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/08/Lemon-Garlic-Baked-Tilapia-2-1-1.jpg",
+      "description": "This lemon garlic baked tilapia is super easy to make and comes together in under 20 minutes.",
+      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/3-TilapiaRecipes.html"
     },
 	{
       "id": 2,
       "name_category": "Medium",
-      "title": "Green Enchilada Sauce Recipe with Tomatillos",
-      "image": "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2018/06/Green-Enchilada-Sauce-Recipe1.jpg",
-      "description": "Homemade green enchilada sauce recipe made with fresh tomatillos, jalapenos, serranos and poblano peppers.",
-      "link": "https://luluilmaknun023.github.io/tomatilloenchiladarecipe/GreenEnchiladaSauceRecipewithTomatillos.html"
+      "title": "Taco Soup Recipe",
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2019/08/taco-soup-16-600x908.jpg",
+      "description": "This easy taco soup recipe is so hearty, filling and just the perfect comfort food.",
+      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/4-TacoSoupRecipes.html
+"
     }
   ]
 }
