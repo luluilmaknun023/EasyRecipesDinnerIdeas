@@ -94,8 +94,15 @@
       "title": "Taco Soup Recipe",
       "image": "https://www.cookingclassy.com/wp-content/uploads/2019/08/taco-soup-16-600x908.jpg",
       "description": "This easy taco soup recipe is so hearty, filling and just the perfect comfort food.",
-      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/4-TacoSoupRecipes.html
-"
+      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/4-TacoSoupRecipes.html"
+    },
+	   {
+      "id": 1,
+      "name_category": "Medium",
+      "title": "Spinach Stuffed Chicken Breast Recipe",
+      "image": "https://easychickenrecipes.com/wp-content/uploads/2019/01/3-ingredient-spinach-dip-stuffed-chicken-4-of-5-650x885.jpg",
+      "description": "This Spinach Stuffed Chicken Breast is one of our all-time favorite stuffed chicken breast recipes.",
+      "link": "https://luluilmaknun023.github.io/EasyRecipesDinnerIdeas/5-SpinachRecipes.html"
     }
   ]
 }
